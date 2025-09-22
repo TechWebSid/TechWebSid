@@ -12,8 +12,8 @@
 - 🎓 MCA Student & Passionate Coder  
 - 💻 Specialized in **Frontend Development** (React, Next.js)  
 - ⚡ Skilled in **Fullstack Web Apps** using **Node.js, Express, MongoDB & MySQL**  
-- 📚 Constantly exploring new technologies and improving my craft  
-- 🎯 Goal: Build scalable apps and crack SSC CGL along with coding journey  
+- 🧩 Strong problem-solving skills & clean code practices  
+- 🎯 Goal: Build scalable apps and grow as a developer  
 
 ---
 
@@ -36,31 +36,29 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 🚀 Featured Projects  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechWebSid&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+Here are some projects I’ve built (click to view):
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechWebSid&theme=radical" alt="Streak Stats" />
-</p>
+- 🔗 [**Project 1: Portfolio Website**](https://github.com/TechWebSid/portfolio)  
+  _Personal portfolio built with Next.js, TailwindCSS, and Framer Motion._  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechWebSid&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+- 🔗 [**Project 2: E-Commerce App**](https://github.com/TechWebSid/ecommerce-app)  
+  _Fullstack MERN application with authentication, cart & payment integration._  
 
----
+- 🔗 [**Project 3: Blog Platform**](https://github.com/TechWebSid/blog-app)  
+  _Multi-user blogging platform using React, Node, Express & MongoDB._  
 
-## 📈 Contribution Graph  
-![TechWebSid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TechWebSid&theme=react-dark)
+✨ *(More projects pinned on my profile!)*
 
 ---
 
 ## ✨ Fun Extras  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Fullstack+Web+Developer;Advanced+Frontend+Specialist;MERN+%26+Next.js+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Fullstack+Web+Developer;Advanced+Frontend+Specialist;MERN+%26+Next.js+Enthusiast;Open+to+Internships+%26+Opportunities" alt="Typing SVG" />
 </p>
+
+> 💡 *"Great code is not written, it's crafted with passion & precision."*  
 
 ---
 
