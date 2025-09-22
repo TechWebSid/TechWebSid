@@ -40,16 +40,16 @@
 
 Here are some projects I’ve built (click to view):
 
-- 🔗 [**Project 1: Portfolio Website**](https://github.com/TechWebSid/portfolio)  
-  _Personal portfolio built with Next.js, TailwindCSS, and Framer Motion._  
+- 🔗 [**Project 1: Obys Agency Replica Website**](https://obys.vercel.app/)  
+  _A modern replica of the Obys Agency site built with **Next.js, TailwindCSS, and GSAP animations** to showcase smooth UI/UX and pixel-perfect design._  
 
-- 🔗 [**Project 2: E-Commerce App**](https://github.com/TechWebSid/ecommerce-app)  
-  _Fullstack MERN application with authentication, cart & payment integration._  
+- 🔗 [**Project 2: Personal Portfolio**](https://sid-port-sbuu.vercel.app/)  
+  _A sleek and responsive portfolio website highlighting my skills, projects, and achievements — built with **Next.js & Framer Motion**._  
 
-- 🔗 [**Project 3: Blog Platform**](https://github.com/TechWebSid/blog-app)  
-  _Multi-user blogging platform using React, Node, Express & MongoDB._  
+- 🔗 [**Project 3: VisionTalk – Video Conferencing WebApp**](https://vision-talk-mo48.vercel.app/)  
+  _A real-time video conferencing platform with **multi-user rooms, chat, and screen sharing**, powered by **WebRTC, Socket.io, and Node.js**._  
 
-✨ *(More projects pinned on my profile!)*
+
 
 ---
 
