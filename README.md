@@ -53,12 +53,53 @@ Here are some projects I’ve built (click to view):
 
 ---
 
+## 🧩 Problem-Solving & Competitive Coding  
+- 💡 Active on **LeetCode**, **Codeforces**, and **HackerRank**  
+- 🏆 Solved 300+ problems across multiple platforms  
+- 🚀 Believe in writing clean, optimized, and scalable solutions  
+
+---
+
+## 📚 Currently Exploring  
+- 🔥 **TypeScript** for stronger frontend apps  
+- ⚡ **Next.js 15 features** & **server actions**  
+- ☁️ Cloud deployment with **Vercel & AWS**  
+- 🎨 UI/UX magic with **Framer Motion** & **TailwindCSS**  
+
+---
+
+## ⚡ Highlights & Achievements  
+- 🥇 Built multiple fullstack apps from scratch  
+- 🌍 Contributed to open source projects  
+- 🧑‍💻 Mentor juniors in JavaScript & React  
+- 💡 Known for debugging & optimizing complex apps  
+
+---
+
+## 🧰 Developer Tools & Workflow  
+![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/API-Postman-orange?logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Design-Figma-purple?logo=figma&logoColor=white)
+
+---
+
 ## ✨ Fun Extras  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Fullstack+Web+Developer;Advanced+Frontend+Specialist;MERN+%26+Next.js+Enthusiast;Open+to+Internships+%26+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Fullstack+Web+Developer;Advanced+Frontend+Specialist;MERN+%26+Next.js+Enthusiast;Builder+of+Anything+Tech;Open+to+Internships+%26+Opportunities" alt="Typing SVG" />
 </p>
 
 > 💡 *"Great code is not written, it's crafted with passion & precision."*  
+
+---
+
+## 🤝 Let’s Collaborate  
+I’m open to:  
+- 🚀 Fullstack Development Projects  
+- 💼 Internship / Freelance Work  
+- 🤝 Open-source contributions  
+- 🎯 Innovative Tech Ideas  
 
 ---
 
